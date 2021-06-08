@@ -21,7 +21,7 @@ public class Lab3Exe1 {
 			sum = sum + n;
 			System.out.println("sum of the integers is: " + sum);
 		}
-		System.out.println("Gaurav");
+		
 
 	}
 }
