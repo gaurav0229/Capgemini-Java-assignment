@@ -9,6 +9,9 @@ public class Lab1Exe4 {
 		
 		System.out.println("Enter Starting Number : ");
 		int start= sc.nextInt();
+		
+		
+		
 		System.out.println("Enter Ending Number : ");
 		int end=sc.nextInt();
 		System.out.println("Prime Number Between " + start + " and" + end + " are : ");

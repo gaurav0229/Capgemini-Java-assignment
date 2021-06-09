@@ -7,7 +7,6 @@ public class Lab1Exe8 {
 	{
 		if (n == 0)
 			return false;
-
 		while (n != 1) {
 			if (n % 2 != 0)
 				return false;
@@ -18,7 +17,6 @@ public class Lab1Exe8 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-
 		System.out.println("Please enter an integer - ");
 		int num = sc.nextInt();
 		if (checkNumber(num))

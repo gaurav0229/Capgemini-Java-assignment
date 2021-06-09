@@ -1,4 +1,4 @@
-package com.cg.demo.ex;
+package gaurav.java.lab3;
 
 import java.util.*;
 
