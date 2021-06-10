@@ -55,8 +55,4 @@ public class Lab2Exe4 {
 		System.out.println("The required Array is = " + Arrays.toString(finalArr));
 
 	}
-} // Convert an array into set
-	// set will automatically remove duplicate values
-	// convert the set into array
-	// arrange the array in descending order
-	// return array
+} 
